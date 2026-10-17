@@ -1,0 +1,24 @@
+{
+	"provideLibs": [	
+		    "libabsl-x86_64-v2.so",
+		    "libabsl.so",
+		    "libdummy_binary_libabsl-x86_64-v2.so.so",
+		    "libdummy_binary_libabsl.a-x86_64-v2.so",
+		    "libdummy_binary_libabsl.a.so",
+		    "libdummy_binary_libabsl.so.so",
+		    "libdummy_ext_abseil_cpp-x86_64-v2.so",
+		    "libdummy_ext_abseil_cpp.so",
+		    "libdummy_headers_ext_abseil_cpp-x86_64-v2.so",
+		    "libdummy_headers_ext_abseil_cpp.so",
+		    "libdummy_shared_abseil_cpp-x86_64-v2.so",
+		    "libdummy_shared_abseil_cpp.so"
+	],
+	"requireLibs": [	
+		    "libc++_shared.so",
+		    "libc.so",
+		    "libdl.so",
+		    "liblog.so",
+		    "libm.so"
+	],
+	"visible": true
+}

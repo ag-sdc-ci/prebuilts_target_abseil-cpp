@@ -1,0 +1,6 @@
+shadow prebuilt repo: abseil-cpp (target)
+  upstream: external/abseil-cpp
+  api-level: 34 (branch 34-20261016)
+  blobs: org.blisslabs.ag.ext.abseil.cpp.apex
+  dev-src: extracted extractive payload (libabsl.a, libabsl.so, headers) + root Android.bp
+  date: 2026-10-16
